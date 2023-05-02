@@ -1,0 +1,17 @@
+{
+    "refresh_token":"[REFRESH TOKEN]",
+    
+    "headers":{
+        "x-client-version": "iOS/FirebaseSDK/9.0.0/FirebaseCore-iOS",
+        "content-type": "application/json",
+        "accept": "*/*",
+        "x-ios-bundle-identifier": "com.yikyak.2",
+        "user-agent": "FirebaseAuth.iOS/9.0.0 com.yikyak.2/3.0.3 iPhone/16.1.1 hw/iPhone14_6",
+        "accept-language": "en"
+    },
+
+    "key":"[YIKYAK_KEY]",
+
+    "POSITION_STACK_API_KEY":"[POSITION STACK API KEY]"
+}
+remove this line and save as connection.json
